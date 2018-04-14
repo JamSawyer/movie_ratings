@@ -1,6 +1,6 @@
 # Solution for DataQuest Guided Project - Analyzing Movie Reviews
 In this project we analyzed data on movie review scores, based on data FiveThirtyEight published in 2015. The movie review services that data was pulled from include: RottenTomatoes, Metacritic, IMDB, and Fandango.
-The data was put together by FiveThirtyEight to help detect bias in the movie review sites.
+The data was put together by FiveThirtyEight to help detect bias in the movie review sites. It can be found here: https://github.com/fivethirtyeight/data/blob/master/fandango/fandango_score_comparison.csv
 
 # Instructions
 1. Read fandango_score_comparison.csv into a Dataframe named movies.
